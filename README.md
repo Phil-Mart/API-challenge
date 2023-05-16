@@ -17,3 +17,8 @@ Then, those relationships are computed by Linear Regression for Each Relationshi
 
 The second deliverable uses the same weather data to map potential vacation locations. The notebook creates a map that displays a point for every city in the data frame,with the name of the first hotel within 10,000 meters from given coordinates. All pertinant information shows up in the hover menu.
 ![Screen Shot 2023-05-14 at 5 50 49 PM](https://github.com/Phil-Mart/python-api-challenge/assets/120279988/b2af555b-8048-4d9a-859f-3476ab94fcd1)
+
+---------
+# Contact:
+email: PhillipMartinez@my.unt.edu
+twitter@ Phil_Mart
