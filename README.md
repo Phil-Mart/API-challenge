@@ -1,4 +1,4 @@
-# API-challenge
+# API-Geomapping
 
 This deliverable uses two python scritps to visualize weather for over 500 cities of varying distances from the equator. 
 
