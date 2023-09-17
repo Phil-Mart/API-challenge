@@ -21,6 +21,6 @@ The second deliverable uses the same weather data to map potential vacation loca
 ---------
 # Contact:
 
-Email: PhillipMartinez@my.unt.edu
+# [Linkedin Profile](linkedin.com/in/phil-mart) 
 
-LinkedIn: [Phil_Mart](https://www.linkedin.com/in/phil-mart/)
+# Email: [Phillip Martinez](PhillipMartinez@my.unt.edu) 
